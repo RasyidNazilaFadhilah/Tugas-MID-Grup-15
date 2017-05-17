@@ -5,7 +5,7 @@ function addChar(input, character) {
 		input.value += character
 }
 
-function cos(form) {
+function cos(form) { 
 	form.display.value = Math.cos(form.display.value);
 }
 
